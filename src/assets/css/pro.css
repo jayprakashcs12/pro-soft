@@ -6,8 +6,12 @@
     text-decoration: none;
 }
 
-.header-link, .footer-link, .toggle-icon {
+.header-link, .footer-link {
     color: var(--color14);
+}
+
+.toggle-icon {
+    color: var(--color04);
 }
 
 .header-link {
