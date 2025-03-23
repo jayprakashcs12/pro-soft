@@ -1,0 +1,31 @@
+.Toastify__toast-icon svg {
+    fill: var(--color02) !important;
+}
+
+.act-link, .header-link, .footer-link, .act-link {
+    text-decoration: none;
+}
+
+.header-link, .footer-link, .toggle-icon {
+    color: var(--color14);
+}
+
+.header-link {
+    padding: 0 5px;
+}
+
+.header-link:hover, .footer-link:hover {
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+    font-weight: bold;
+    transition: .1s;
+}
+
+.spe-contain {
+    display: flex;
+    align-items: center;
+}
+
+.head-text {
+    text-align: center;
+}

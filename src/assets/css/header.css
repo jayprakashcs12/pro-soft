@@ -1,0 +1,17 @@
+.pro-navbar {
+    background-color: var(--color01) !important;
+}
+
+.pro-dropdown .dropdown-menu {
+    min-width: 160px;
+    width: auto; 
+    /* margin-left: -105px; */
+}
+
+.dropdown-item.active, .dropdown-item:active, .pro-dropdown .dropdown-menu {
+    background-color: var(--color01);
+}
+
+/* .pro-dropdown .dropdown-toggle::after {
+    display: none;
+} */

@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "fname": "Amit",
+      "mname": "Kumar",
+      "lname": "Sharma",
+      "username": "amit@gmail.com",
+      "password": "Amit@123",
+      "id": "3676"
+    },
+    {
+      "fname": "Rahul",
+      "mname": "Dev",
+      "lname": "Singh",
+      "username": "rahul@gmail.com",
+      "password": "Rahul@789",
+      "id": "bd01"
+    },
+    {
+      "fname": "Neha",
+      "mname": "Raj",
+      "lname": "Patel",
+      "username": "neha@gmail.com",
+      "password": "Neha@321",
+      "id": "3811"
+    },
+    {
+      "fname": "Vikram",
+      "mname": "Nath",
+      "lname": "Yadav",
+      "username": "vikram@gmail.com",
+      "password": "Vikram@654",
+      "id": "957a"
+    }
+  ]
+}
